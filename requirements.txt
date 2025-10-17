@@ -1,0 +1,5 @@
+streamlit
+streamlit-autorefresh
+psutil
+pandas
+sqlite3
